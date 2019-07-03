@@ -1,0 +1,5 @@
+{
+  "port": 80,
+  "platform": "docker",
+  "volume": "/root/.telegram-cli"
+}
